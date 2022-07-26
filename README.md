@@ -1,6 +1,7 @@
 CLONE NETFLIX 
 #
-![clone_netflix](https://user-images.githubusercontent.com/32987989/181113919-e6b2a8f8-7f44-45ec-8659-ec416ac7c9a0.jpg)
+![clone-netflix](https://user-images.githubusercontent.com/32987989/181114203-27bcf4ea-a122-4315-8403-4a1462e141e2.jpg)
+
 #
 Projeto clone da Netflix usando React.js e manupulação da API TMDB, seguindo a Live do Bonieky Lacerda.
 
