@@ -1,3 +1,11 @@
+CLONE NETFLIX 
+#
+![clone_netflix](https://user-images.githubusercontent.com/32987989/181113919-e6b2a8f8-7f44-45ec-8659-ec416ac7c9a0.jpg)
+#
+Projeto clone da Netflix usando React.js e manupulação da API TMDB, seguindo a Live do Bonieky Lacerda.
+
+#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
