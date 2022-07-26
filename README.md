@@ -3,7 +3,7 @@
 ![clone-netflix](https://user-images.githubusercontent.com/32987989/181114203-27bcf4ea-a122-4315-8403-4a1462e141e2.jpg)
 
 #
-Projeto clone da Netflix usando React.js e manupulação da API TMDB, seguindo a Live do Bonieky Lacerda.
+Projeto clone da Netflix usando React.js e manipulação da API TMDB, seguindo a Live do Bonieky Lacerda.
 
 #
 
